@@ -23,6 +23,6 @@ sh "docker push fkomendah/exam_repo:1.0"
 stage('Apply changes to the environment') {
 sh "ls -l"
 }
-
+}
 
 
